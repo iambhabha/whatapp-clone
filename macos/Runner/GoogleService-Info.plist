@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>799412328341-m9j68o6vlecgbj61jed5fcu6bf00l9sv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.799412328341-m9j68o6vlecgbj61jed5fcu6bf00l9sv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>799412328341-u9pa5mjop8qak0k97oqr6clak19au4ii.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCuR42F97vb7e1nHBpNWMmNQMo6m3HAd04</string>
+	<key>GCM_SENDER_ID</key>
+	<string>799412328341</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.codexveer.whatsappClone</string>
+	<key>PROJECT_ID</key>
+	<string>videoupload-7c9c2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>videoupload-7c9c2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:799412328341:ios:07d4e601772091eca4089c</string>
+</dict>
+</plist>
